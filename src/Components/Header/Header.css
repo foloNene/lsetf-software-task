@@ -1,5 +1,5 @@
 .HeaderContainer {
-  background-color: red;
+  background-color: black;
   width: 100%;
   align-items: center;
   display: flex;
@@ -9,7 +9,7 @@
 .HeaderHolder {
   display: flex;
   justify-content: space-between;
-  width: 100%;
+  width: 90%;
   margin-right: auto;
   margin-left: auto;
   height: 80px;
@@ -24,4 +24,9 @@
   display: flex;
   justify-content: space-around;
   width: 50%;
+}
+
+.LogoHolder {
+  align-items: center;
+  background-color: blue;
 }

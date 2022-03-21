@@ -11,6 +11,8 @@ export const MainContain = styled.div`
 `
 
 export const FooterHold = styled.div`
+font-size: 40px;
+background-color: white;
 
  
 `

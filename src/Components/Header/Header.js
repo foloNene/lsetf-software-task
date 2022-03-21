@@ -6,7 +6,7 @@ const Header = () => {
    <>
    <div className='HeaderContainer'>
     <div className='HeaderHolder'>
-     <div>
+     <div className='LogoHolder'>
       LSETF
      </div>
      <div className='Nav'>
