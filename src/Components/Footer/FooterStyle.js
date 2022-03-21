@@ -7,9 +7,10 @@ export const MainContain = styled.div`
  align-items: center;
  background-color: blue;
  font-size= 40px;
+ height: 100px;
 `
 
 export const FooterHold = styled.div`
 
- font-size: large;
+ 
 `
